@@ -3,3 +3,6 @@ Crocodile
 Crocodile's wife
 tortoise
 frogs
+fishes
+tiger
+pandas
