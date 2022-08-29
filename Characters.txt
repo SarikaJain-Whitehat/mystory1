@@ -1,3 +1,5 @@
 monkey
 Crocodile
 Crocodile's wife
+tortoise
+frogs
